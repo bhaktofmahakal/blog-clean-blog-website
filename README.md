@@ -26,6 +26,17 @@
 
     blog-clean-blog-website/ ├── admin-panel/ # Admin dashboard files ├── assets/ # Images and media assets ├── auth/ # Authentication scripts ├── categories/ # Category management ├── config/ # Configuration files ├── css/ # Stylesheets ├── includes/ # Reusable components (header, footer, etc.) ├── js/ # JavaScript files ├── posts/ # Blog post management ├── users/ # User management ├── index.php # Main landing page ├── contact.php # Contact form page ├── search.php # Search results page ├── 404.php # Custom 404 error page └── LICENSE # License information
 
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](image/homepage.png)
+
+### ℹ️ About Page  
+![About](image/about.png)
+
+### 📞 Contact Page  
+![Contact](image/contact.png)
+
 ## 🚀 Installation
 
 1. **Clone the Repository**:
@@ -42,7 +53,7 @@ Update the config/config.php file with your database credentials.
 
 3.Run the Application:
 
-Place the project folder in your server's root directory (e.g., htdocs for XAMPP).
+   Place the project folder in your server's root directory (e.g., htdocs for XAMPP).
 
 Access the application via 
 
@@ -54,4 +65,4 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 📄 License:
 
-This project is licensed under the Apache-2.0 License.
+    This project is licensed under the Apache-2.0 License.
