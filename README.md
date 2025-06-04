@@ -1,8 +1,7 @@
-<p>
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
-</p>
+
 # 🚀 Clean Blog Website
 
 **Clean Blog Website** is a **responsive** and **modern blogging platform** built with **PHP** and **Bootstrap**. Inspired by the popular *Clean Blog* theme from Start Bootstrap, this project delivers a sleek and user-friendly interface for readers alongside a powerful backend for managing content effortlessly.
@@ -41,4 +40,3 @@
 ---
 
 ## 📁 Project Structure
-
