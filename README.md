@@ -40,6 +40,9 @@
 
 ## 📁 Project Structure
 
+<details>
+<summary>Click to expand</summary>
+  
     blog-clean-blog-website/  
     ├── admin-panel/          # Admin dashboard files  
     ├── assets/               # Images and media assets  
@@ -57,6 +60,7 @@
     ├── 404.php               # Custom 404 error page  
     └── LICENSE               # License information  
 
+</details>
 
 
 ---
