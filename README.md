@@ -1,6 +1,5 @@
-[![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://www.php.net/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)](https://getbootstrap.com/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
+
+[![Project: Clean Blog](https://img.shields.io/badge/Clean_Blog-Your%20Ultimate%20Blogging%20Platform-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/bhaktofmahakal/blog-clean-blog-website)  
 
 # 🚀 Clean Blog Website
 
@@ -40,3 +39,41 @@
 ---
 
 ## 📁 Project Structure
+
+    blog-clean-blog-website/  
+    ├── admin-panel/          # Admin dashboard files  
+    ├── assets/               # Images and media assets  
+    ├── auth/                 # Authentication scripts  
+    ├── categories/           # Category management  
+    ├── config/               # Configuration files  
+    ├── css/                  # Stylesheets  
+    ├── includes/             # Reusable components (header, footer, etc.)  
+    ├── js/                   # JavaScript files  
+    ├── posts/                # Blog post management  
+    ├── users/                # User management  
+    ├── index.php             # Main landing page  
+    ├── contact.php           # Contact form page  
+    ├── search.php            # Search results page  
+    ├── 404.php               # Custom 404 error page  
+    └── LICENSE               # License information  
+
+
+
+---
+
+## 📜 License
+
+This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+
+> "The best way to predict the future is to invent it."  
+> — **Alan Kay**
+
+---
+
+[![PHP](https://img.shields.io/badge/PHP-7.4-blue?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)](LICENSE)
