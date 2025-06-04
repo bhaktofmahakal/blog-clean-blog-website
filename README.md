@@ -38,6 +38,40 @@
 
 ---
 
+## 📸 Blog Website Screenshots
+
+> Key pages of the blog website interface
+
+---
+
+### 🏠 Home Page
+<div align="center">
+  <img src="image/homepage.png" alt="Home Page" width="80%" style="border-radius: 10px; border: 1px solid #ccc;" />
+</div>
+
+---
+
+### 🔐 Login Page
+<div align="center">
+  <img src="image/login.png" alt="Login Page" width="80%" style="border-radius: 10px; border: 1px solid #ccc;" />
+</div>
+
+---
+
+### 📝 Register Page
+<div align="center">
+  <img src="image/register.png" alt="Register Page" width="80%" style="border-radius: 10px; border: 1px solid #ccc;" />
+</div>
+
+---
+
+### 📞 Contact Page
+<div align="center">
+  <img src="image/contact.png" alt="Contact Page" width="80%" style="border-radius: 10px; border: 1px solid #ccc;" />
+</div>
+
+
+
 ## 📁 Project Structure
 
 <details>
