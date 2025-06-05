@@ -1,7 +1,7 @@
 
 [![Project: Clean Blog](https://img.shields.io/badge/Clean_Blog-Your%20Ultimate%20Blogging%20Platform-brightgreen?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/bhaktofmahakal/blog-clean-blog-website)  
 
-# 🚀 Clean Blog Website
+# 🚀 Blog Website
 
 **Clean Blog Website** is a **responsive** and **modern blogging platform** built with **PHP** and **Bootstrap**. Inspired by the popular *Clean Blog* theme from Start Bootstrap, this project delivers a sleek and user-friendly interface for readers alongside a powerful backend for managing content effortlessly.
 
